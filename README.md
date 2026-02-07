@@ -3,6 +3,9 @@
 This project scrapes only Python,Data and ML-related jobs and listing them 
 from the Real Python Fake Jobs website
 
+## Website Link
+https://realpython.github.io/fake-jobs/
+
 ## Features
 - Scrapes job title, company, location, posted date, and apply link
 - Filters Python / Data / ML jobs
